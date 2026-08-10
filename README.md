@@ -20,5 +20,4 @@ Python / LangChain / RAG Systems / AI Chatbot Development / FastAPI / Agentic AI
 ![](https://github-profile-trophy.vercel.app/?username=HR-Builds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-> **"It's not over until I win."**  
-> — *Hassan*
+<img width="1251" height="283" alt="quote svg" src="https://github.com/user-attachments/assets/1713e346-1a61-4019-82e1-51fe343f16bb" />
