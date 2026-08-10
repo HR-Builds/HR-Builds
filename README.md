@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hassan Rashid<br><br>~Currently Learning   Agentic Ai/Generative Ai/Python/Backend/fastAPI/SQLALchemy/alembic
+Hassan Rashid<br><br> **Currently Learning**
+
+Python / LangChain / RAG Systems / AI Chatbot Development / FastAPI / Agentic AI
 
 <!-- Snake Game Repo View -->
 
