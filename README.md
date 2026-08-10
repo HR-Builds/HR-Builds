@@ -1,5 +1,5 @@
 # 💫 About Me:
-*Hassan Rashid*<br><br> **Currently Learning**
+ **Currently Learning**
 
 Python / LangChain / RAG Systems / AI Chatbot Development / FastAPI / Agentic AI
 
