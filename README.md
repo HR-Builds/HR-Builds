@@ -1,33 +1,22 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HERO                                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:071a16,100:0b2b22&text=HASSAN%20RASHID&fontColor=d8c7a1&fontSize=52&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20AGENTIC%20SYSTEMS%20%20%C2%B7%20RAG&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030504,45:07130f,75:0b211a,100:030504&text=HASSAN%20RASHID&fontColor=D8C7A1&fontSize=55&fontAlignY=38&desc=PYTHON%20%2F%20AI%20%2F%20BACKEND%20LEARNER&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=7FFFD4&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+actually+do+things.;RAG+%C2%B7+Agentic+AI+%C2%B7+FastAPI+%C2%B7+LLM+Applications;Turning+ideas+into+production-ready+AI+systems.;Welcome+to+my+digital+workshop." alt="Typing animation" />
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-071a16?style=for-the-badge&labelColor=050505&color=0f766e"/>
-<img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-071a16?style=for-the-badge&labelColor=050505&color=0f766e"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%26%20LEARN-071a16?style=for-the-badge&labelColor=050505&color=0f766e"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7FFFD4&center=true&vCenter=true&width=720&lines=Learning+to+build+with+Python.;Exploring+LangChain+%26+RAG+systems.;Building+AI+chatbot+projects.;Learning+FastAPI+%26+backend+development.;Exploring+Agentic+AI%2C+one+project+at+a+time." />
 
 <br><br>
 
-> **"The goal isn't to build another chatbot.
-> The goal is to build systems that can think, retrieve, reason and act."**
+<img src="https://img.shields.io/badge/LEARNING-∞-07130f?style=for-the-badge&labelColor=030504&color=0f766e"/>
+<img src="https://img.shields.io/badge/BUILDING-PROJECTS-07130f?style=for-the-badge&labelColor=030504&color=0f766e"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI-07130f?style=for-the-badge&labelColor=030504&color=D8C7A1"/>
 
-<br>
+<br><br>
 
-<a href="https://github.com/HR-Builds">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-d8c7a1?style=for-the-badge&labelColor=050505&color=d8c7a1"/>
-</a>
+### `NOT AN EXPERT. NOT PRETENDING TO BE.`
+
+**Just someone seriously learning how to build things.**
 
 </div>
 
@@ -35,47 +24,58 @@
 
 <div align="center">
 
-### ◈ THE PERSON BEHIND THE CODE
+# ◈ THE JOURNEY
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## `01` — WHO AM I?
+### `01` — WHERE I AM RIGHT NOW
 
-I'm **Hassan Rashid**, an aspiring AI Engineer focused on building practical intelligent software.
+I'm **Hassan Rashid**, a developer currently focused on learning **Python, backend development and AI application development**.
 
-My work sits at the intersection of:
+I'm still learning.
 
-**LLMs × Retrieval × Agents × APIs × Automation**
+That means I'm not going to call myself an AI Engineer, claim to be an expert, or pretend that every technology in my stack is something I've mastered.
 
-I enjoy taking an idea that exists only as a concept and turning it into a working system — from the backend architecture and data layer to the AI pipeline and final interface.
+Instead, I'm building projects, breaking things, fixing them, and learning how the pieces actually work.
 
-I'm currently going deeper into **Agentic AI, RAG architectures, LangChain and production-grade AI applications.**
+<br>
+
+My current learning path revolves around:
+
+**Python**
+**LangChain**
+**RAG Systems**
+**AI Chatbots**
+**FastAPI**
+**PostgreSQL**
+**Agentic AI**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-## `CURRENTLY BUILDING`
+### `CURRENT STATE`
 
 ```text
-╭──────────────────────────────╮
-│                              │
-│   ◈ AGENTIC AI               │
-│   ◈ RAG SYSTEMS              │
-│   ◈ LLM APPLICATIONS         │
-│   ◈ AI AUTOMATION            │
-│   ◈ FASTAPI BACKENDS         │
-│                              │
-╰──────────────────────────────╯
+┌─────────────────────────────┐
+│                             │
+│  PYTHON          ███████░░  │
+│  BACKEND         █████░░░░  │
+│  RAG             █████░░░░  │
+│  LANGCHAIN       ████░░░░░  │
+│  FASTAPI         ████░░░░░  │
+│  AGENTIC AI      ███░░░░░░  │
+│                             │
+│  STATUS: LEARNING           │
+│                             │
+└─────────────────────────────┘
 ```
 
-**Mindset**
-
-> Build → Break → Understand → Improve → Ship
+<sub>Progress is a journey, not a badge.</sub>
 
 </td>
 </tr>
@@ -85,19 +85,21 @@ I'm currently going deeper into **Agentic AI, RAG architectures, LangChain and p
 
 <div align="center">
 
-## ◇ THE STACK
+## ◇ THE THINGS I'M LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,docker,vscode&theme=dark" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github,vscode&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LangChain-0B0F0E?style=flat-square&logo=chainlink&logoColor=7FFFD4"/>
-<img src="https://img.shields.io/badge/LangGraph-0B0F0E?style=flat-square&logoColor=7FFFD4"/>
-<img src="https://img.shields.io/badge/RAG-0B0F0E?style=flat-square&logoColor=7FFFD4"/>
-<img src="https://img.shields.io/badge/LLMs-0B0F0E?style=flat-square&logoColor=7FFFD4"/>
-<img src="https://img.shields.io/badge/AI_Agents-0B0F0E?style=flat-square&logoColor=7FFFD4"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-0B0F0E?style=flat-square&logo=sqlalchemy&logoColor=d8c7a1"/>
-<img src="https://img.shields.io/badge/Streamlit-0B0F0E?style=flat-square&logo=streamlit&logoColor=ff4b4b"/>
+<img src="https://img.shields.io/badge/LangChain-07130f?style=flat-square&logoColor=7FFFD4"/>
+<img src="https://img.shields.io/badge/RAG-07130f?style=flat-square&logoColor=7FFFD4"/>
+<img src="https://img.shields.io/badge/AI_CHATBOTS-07130f?style=flat-square&logoColor=7FFFD4"/>
+<img src="https://img.shields.io/badge/LLMs-07130f?style=flat-square&logoColor=D8C7A1"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-07130f?style=flat-square&logoColor=7FFFD4"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-07130f?style=flat-square&logo=sqlalchemy&logoColor=D8C7A1"/>
+<img src="https://img.shields.io/badge/Streamlit-07130f?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
 
 </div>
 
@@ -105,44 +107,101 @@ I'm currently going deeper into **Agentic AI, RAG architectures, LangChain and p
 
 <div align="center">
 
-## `02` — WHAT I BUILD
+## `02` — WHAT I'VE ACTUALLY BUILT
+
+<sub>Not hypothetical. Not future projects. Things I've worked on.</sub>
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td align="center" width="33%">
 
-### ◈ RAG
+<td width="50%" valign="top">
 
-**Retrieval-Augmented
-Generation**
+### ◈ AI RAG CHATBOT
 
-Turning private knowledge into intelligent, searchable AI systems.
+A document-based AI chatbot project where I explored how information can be loaded, split, embedded and retrieved before being passed to an LLM.
+
+**What I explored**
+
+`PDF Processing`
+`Embeddings`
+`Vector Stores`
+`Retrieval`
+`LLMs`
+
+**Technologies**
+
+`Python` · `LangChain` · `Chroma` · `HuggingFace` · `Groq`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ MULTI-AGENT JOB FINDER
+
+A project I'm building to understand how multiple AI components can work together for job research.
+
+**What I explored**
+
+`Agent Workflows`
+`Job Searching`
+`Resume Processing`
+`Web Research`
+`LangGraph`
+
+**Technologies**
+
+`Python` · `LangGraph` · `Groq` · `Tavily` · `Streamlit`
 
 </td>
 
-<td align="center" width="33%">
+</tr>
 
-### ◈ AGENTS
+<tr>
 
-**Autonomous AI
-Workflows**
+<td width="50%" valign="top">
 
-Systems that can reason, use tools and execute multi-step tasks.
+### ◈ HOSPITAL MANAGEMENT
+
+A backend project created to learn how real-world APIs and databases fit together.
+
+**What I explored**
+
+`CRUD APIs`
+`Database Models`
+`PostgreSQL`
+`Migrations`
+`API Architecture`
+
+**Technologies**
+
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic`
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ◈ BACKENDS
+### ◈ AI CUSTOMER SUPPORT
 
-**Production-minded
-APIs**
+A larger project I'm developing to learn how backend systems, authentication, databases and AI functionality can come together.
 
-FastAPI services, databases, authentication and AI integrations.
+**What I'm exploring**
+
+`FastAPI`
+`Authentication`
+`PostgreSQL`
+`RAG`
+`AI Support`
+
+**Status**
+
+`IN DEVELOPMENT`
 
 </td>
+
 </tr>
 </table>
 
@@ -150,185 +209,45 @@ FastAPI services, databases, authentication and AI integrations.
 
 <div align="center">
 
-## ◈ PROJECTS IN THE WORKSHOP
+## ◈ MY CURRENT LEARNING MAP
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` — MULTI-AGENT JOB FINDER
-
-An AI-powered job discovery system designed around multiple specialized agents.
-
-**Pipeline**
-
-`Resume → Analysis → Search → Research → Ranking → Results`
-
-**Built with**
-
-`Python` `LangGraph` `Groq` `Tavily` `Streamlit`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02` — AI CUSTOMER SUPPORT
-
-A full-stack AI customer support platform combining traditional backend engineering with intelligent retrieval.
-
-**Architecture**
-
-`FastAPI → PostgreSQL → RAG → AI Agent`
-
-**Built with**
-
-`FastAPI` `PostgreSQL` `RAG` `Authentication`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03` — AI RAG CHATBOT
-
-A document-aware conversational system capable of retrieving information from uploaded knowledge sources.
-
-**Architecture**
-
-`Documents → Chunks → Embeddings → Vector Store → LLM`
-
-**Built with**
-
-`LangChain` `Chroma` `HuggingFace` `Groq`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` — HOSPITAL MANAGEMENT
-
-A backend-focused management system built around structured APIs, database models and real-world CRUD workflows.
-
-**Architecture**
-
-`FastAPI → SQLAlchemy → PostgreSQL → Alembic`
-
-**Focus**
-
-`Backend Engineering` `Databases` `REST APIs`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◇ THE ENGINEERING MINDSET
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=D8C7A1&center=true&vCenter=true&width=700&lines=I+don't+want+to+just+use+AI.;I+want+to+understand+how+AI+systems+work.;I+don't+want+to+copy+architectures.;I+want+to+learn+how+to+design+them.;Every+project+is+another+layer+of+understanding." />
-
-<br>
-
-<table>
-<tr>
-<td align="center">01<br><sub>UNDERSTAND</sub></td>
-<td>→</td>
-<td align="center">02<br><sub>DESIGN</sub></td>
-<td>→</td>
-<td align="center">03<br><sub>BUILD</sub></td>
-<td>→</td>
-<td align="center">04<br><sub>BREAK</sub></td>
-<td>→</td>
-<td align="center">05<br><sub>REFINE</sub></td>
-<td>→</td>
-<td align="center">06<br><sub>SHIP</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## `03` — GITHUB / SYSTEM TELEMETRY
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api?username=HR-Builds&show_icons=true&hide_border=true&bg_color=050505&title_color=d8c7a1&icon_color=7fffd4&text_color=c8c8c8&rank_icon=github" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=HR-Builds&hide_border=true&background=050505&ring=d8c7a1&fire=7fffd4&currStreakLabel=d8c7a1&sideLabels=c8c8c8&dates=777777" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HR-Builds&layout=compact&hide_border=true&bg_color=050505&title_color=d8c7a1&text_color=c8c8c8" width="42%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CONTRIBUTION MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HR-Builds&bg_color=050505&color=d8c7a1&line=0f766e&point=7fffd4&area=true&hide_border=true&custom_title=HASSAN%20RASHID%20%E2%80%94%20BUILD%20ACTIVITY" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `04` — THE TROPHY ROOM
-
-<img src="https://github-profile-trophy.vercel.app/?username=HR-Builds&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◇ A LITTLE AUTOMATION
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `05` — CURRENTLY LEARNING
-
-<br>
 
 ```text
-                     AI ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-        AGENTS             RAG             APIs
-          │                │                │
-       LangGraph        Retrieval         FastAPI
-       Tool Use         Embeddings        SQL
-       Workflows        Vector DB         Auth
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                      LLM SYSTEMS
+                         ┌──────────────────┐
+                         │      PYTHON      │
+                         └────────┬─────────┘
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+                 ▼                ▼                ▼
+             BACKEND            DATA              AI
+                 │                │                │
+                 ▼                ▼                ▼
+             FastAPI         PostgreSQL        LangChain
+                 │                │                │
+                 │                │                ▼
+                 │                │              RAG
+                 │                │                │
+                 │                │                ▼
+                 │                │           AI CHATBOTS
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  │
+                                  ▼
+                           AGENTIC AI
+                              ↓
+                         NEXT CHAPTER
 ```
 
-<br>
+<div align="center">
 
-**Deepening my understanding of**
+<sub>
 
-`Python` · `LangChain` · `LangGraph` · `RAG` · `LLMs` · `FastAPI` · `PostgreSQL` · `Agentic AI`
+**I'm not at the destination.
+I'm building the foundation.**
+
+</sub>
 
 </div>
 
@@ -336,33 +255,241 @@ A backend-focused management system built around structured APIs, database model
 
 <div align="center">
 
-## ◇ CONNECT
+## `03` — THE WAY I LEARN
 
-If you're building something interesting in **AI, agents, RAG or backend engineering**, I'd love to hear about it.
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### `01`
+
+**LEARN**
+
+Understand the concept before pretending I know it.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `02`
+
+**BUILD**
+
+Turn the concept into an actual project.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `03`
+
+**BREAK**
+
+Run into errors.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `04`
+
+**FIX**
+
+Understand why it broke.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### `05`
+
+**REPEAT**
+
+Come back better.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=D8C7A1&center=true&vCenter=true&width=700&lines=Every+error+teaches+me+something.;Every+project+adds+another+layer.;Every+bug+forces+me+to+understand+deeper.;I'm+still+learning.+And+that's+the+point." />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◇ GITHUB ACTIVITY
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=HR-Builds&show_icons=true&hide_border=true&bg_color=030504&title_color=D8C7A1&icon_color=7FFFD4&text_color=C8C8C8&rank_icon=github" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=HR-Builds&hide_border=true&background=030504&ring=D8C7A1&fire=7FFFD4&currStreakLabel=D8C7A1&sideLabels=C8C8C8&dates=777777" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HR-Builds&layout=compact&hide_border=true&bg_color=030504&title_color=D8C7A1&text_color=C8C8C8" width="43%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` — CONTRIBUTION FLOW
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HR-Builds&bg_color=030504&color=D8C7A1&line=0F766E&point=7FFFD4&area=true&hide_border=true&custom_title=THE%20BUILDING%20LOG" width="96%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ TROPHY ROOM
+
+<img src="https://github-profile-trophy.vercel.app/?username=HR-Builds&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="96%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◇ THE DAILY GRIND
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution animation"/>
+
+<br><br>
+
+<sub>
+
+Every square represents another day of showing up.
+
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+# `05` — WHAT COMES NEXT
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**NOW**
+
+Python
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="20%">
+
+**NEXT**
+
+Backend
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="20%">
+
+**THEN**
+
+RAG
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="20%">
+
+**DEEPER**
+
+Agents
+
+</td>
+
+<td>→</td>
+
+<td align="center" width="20%">
+
+**FUTURE**
+
+Build Bigger
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=7FFFD4&center=true&vCenter=true&width=750&lines=Today%3A+Learning.;Tomorrow%3A+Building.;Eventually%3A+Engineering+systems+I+once+only+studied." />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ IF YOU'RE HERE
+
+I'm always interested in meeting people who are also learning, building and experimenting.
+
+Whether you're into **Python, AI, RAG, backend development or just building cool things** —
+
+**let's connect.**
 
 <br>
 
 <a href="mailto:dev.hassanrashid@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-d8c7a1?style=for-the-badge&logo=gmail&logoColor=050505"/>
+<img src="https://img.shields.io/badge/EMAIL-D8C7A1?style=for-the-badge&labelColor=030504&logo=gmail&logoColor=030504"/>
 </a>
+
+ 
 
 <a href="https://github.com/HR-Builds">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-07130F?style=for-the-badge&labelColor=030504&logo=github&logoColor=FFFFFF"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/hassan-rashid-a325883aa">
-<img src="https://img.shields.io/badge/LINKEDIN-071a16?style=for-the-badge&logo=linkedin&logoColor=7fffd4"/>
+<img src="https://img.shields.io/badge/LINKEDIN-07130F?style=for-the-badge&labelColor=030504&logo=linkedin&logoColor=7FFFD4"/>
 </a>
 
-<br><br>
+<br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0b2b22,50:071a16,100:050505" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0b211a,50:07130f,100:030504" width="100%"/>
+
+<br>
 
 <sub>
 
-**© 2026 Hassan Rashid**
+**HASSAN RASHID**
 
-`BUILDING THE FUTURE, ONE SYSTEM AT A TIME.`
+`LEARNING • BUILDING • IMPROVING`
 
 </sub>
 
