@@ -87,7 +87,7 @@ Beyond development, I bring an understanding of business communication, creative
 
 <br/><br/>
 
-#### "Birds born in a cage thinks flying is an illness,"
+#### "Birds born in a cage thinks flying is an illness"
 
 <br/>
 
