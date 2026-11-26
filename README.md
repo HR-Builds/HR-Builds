@@ -87,7 +87,8 @@ Beyond development, I bring an understanding of business communication, creative
 
 <br/><br/>
 
-### "Build with intent. Deliver with impact."
+#### "Birds born in a cage think,
+   flying is an illness,"
 
 <br/>
 
