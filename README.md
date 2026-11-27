@@ -50,8 +50,6 @@ Beyond development, I bring an understanding of business communication, creative
 - Sales & Client Relations
 - Business Communication
 - Creative Design & Ad Creatives
-- Content & Blog Writing
-- Advanced Excel
 
 ## TECHNOLOGY
 
